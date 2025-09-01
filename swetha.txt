@@ -1,0 +1,4 @@
+name:himaja
+suc number:2352320203
+roll no:16
+section: bsc
